@@ -12,7 +12,7 @@ const createBill = (req,res)=>{
     const list = req.body
     console.log(list)
 
-    if( !list.name || !list.hospitalName||!list.serviceDate||!list.billAmount ){
+    if( !list.name || !list.hospitalName||!list.serviceDate ){
      return res.status(400).json({success: false,message:"please provide some data"})
     }
      billInfo.push(list)
