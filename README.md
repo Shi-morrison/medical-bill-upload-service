@@ -8,7 +8,7 @@ This project uses the Node.js and Express.js and Nodemon frameworks to create a 
 
 ## Getting Started
 
-1.'git clone 'https://github.com/Shi-morrison/medical-bill-upload-service.git' to clone the repo into your file directory
+'git clone 'https://github.com/Shi-morrison/medical-bill-upload-service.git' to clone the repo into your file directory
 
 ## Installing
 
