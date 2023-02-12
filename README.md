@@ -14,11 +14,11 @@ This project uses the Node.js and Express.js and Nodemon frameworks to create a 
 
 1. Download Node [here](https://nodejs.org/en/) as it is needed to download the necessary dependendacies with npm.
 
-2. Clone Repo with this url "https://github.com/Shi-morrison/medical-bill-upload-service.git" .
+2. Open terminal and in directory with repo and run "npm install", this will install all necessay dependacies to run this program.
 
-3. Open terminal and in directory with repo run "npm install", this will install all necessay dependacies to run this program.
+3. Run "npm start", this will start the server with nodemon and have any saved changes automatically refreshed to the server.
 
-4. Run "npm start", this will start the server with nodemon and have any saved changes automatically refreshed to the server.
+4. Confirm server is listening to port 3000
 
 5. Download Postman [here](https://www.postman.com/) as it is helpful to run API testing.
 
